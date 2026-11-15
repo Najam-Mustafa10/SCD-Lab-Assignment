@@ -1,0 +1,4 @@
+My name is Najam Mustafa.
+I am a Software Engineering student.
+I am currently learning Software Construction and Development.
+I am learning Git and GitHub for version control.

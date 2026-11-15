@@ -1,0 +1,6 @@
+About Me
+
+My name is Najam Mustafa.
+I am a Software Engineering student.
+I am learning Java, Web Development, Git and GitHub.
+My goal is to become a professional software developer.
